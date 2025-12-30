@@ -22,4 +22,4 @@ shape = SubResource("RectangleShape2D_0e48y")
 metadata/_edit_lock_ = true
 
 [node name="Player" parent="." instance=ExtResource("1_wtcfe")]
-position = Vector2(132, 546)
+position = Vector2(31, 569)
